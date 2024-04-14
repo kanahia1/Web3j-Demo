@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Web3j Demo</string>
+    <string name="infura"></string>
+</resources>
